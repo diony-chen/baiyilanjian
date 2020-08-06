@@ -1,0 +1,7 @@
+com\baiyilanjian\cloud\common\properties\ConfigCommonProperties.class
+com\baiyilanjian\cloud\common\properties\QueueProperties.class
+com\baiyilanjian\cloud\common\properties\DruidDSProperties.class
+com\baiyilanjian\cloud\common\properties\ExchangeProperties.class
+com\baiyilanjian\cloud\common\properties\MqProperties.class
+META-INF\spring-configuration-metadata.json
+com\baiyilanjian\cloud\common\properties\RouteKeyProperties.class

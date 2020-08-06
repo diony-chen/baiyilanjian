@@ -1,0 +1,10 @@
+com\billow\order\service\impl\CoreOrderServiceImpl.class
+com\billow\order\remote\TestUserHystric.class
+com\billow\order\dao\OrderDao.class
+com\billow\order\service\CoreOrderService.class
+com\billow\order\producer\CoreOrderProducer.class
+com\billow\order\CoreOrderApp.class
+com\billow\order\pojo\vo\OrderVo.class
+com\billow\order\api\TestOrderApi.class
+com\billow\order\remote\TestUserRemote.class
+com\billow\order\pojo\po\OrderPo.class

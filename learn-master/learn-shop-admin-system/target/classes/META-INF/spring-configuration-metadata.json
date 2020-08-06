@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "custom",
+      "type": "com.billow.system.properties.CustomProperties",
+      "sourceType": "com.billow.system.properties.CustomProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "custom.common",
+      "type": "com.billow.system.properties.CommonProperties",
+      "sourceType": "com.billow.system.properties.CustomProperties"
+    },
+    {
+      "name": "custom.menu",
+      "type": "com.billow.system.properties.MenuProperties",
+      "sourceType": "com.billow.system.properties.CustomProperties"
+    },
+    {
+      "name": "custom.security",
+      "type": "com.billow.system.properties.SecurityProperties",
+      "sourceType": "com.billow.system.properties.CustomProperties"
+    }
+  ],
+  "hints": []
+}

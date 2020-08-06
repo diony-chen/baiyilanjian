@@ -1,0 +1,6 @@
+com\billow\jpa\base\pojo\BasePage.class
+com\billow\jpa\base\pojo\BasePoDefault.class
+com\billow\jpa\DefaultSpec.class
+com\billow\jpa\InjectOpreator.class
+com\billow\jpa\utils\QueryUtils.class
+com\billow\jpa\base\pojo\BasePo.class

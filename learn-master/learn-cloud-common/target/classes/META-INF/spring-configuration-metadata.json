@@ -1,0 +1,112 @@
+{
+  "groups": [
+    {
+      "name": "config",
+      "type": "com.billow.cloud.common.properties.ConfigCommonProperties",
+      "sourceType": "com.billow.cloud.common.properties.ConfigCommonProperties"
+    },
+    {
+      "name": "druid.datasource",
+      "type": "com.billow.cloud.common.properties.DruidDSProperties",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "config.mq",
+      "type": "com.billow.cloud.common.properties.MqProperties",
+      "sourceType": "com.billow.cloud.common.properties.ConfigCommonProperties"
+    },
+    {
+      "name": "druid.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.filters",
+      "type": "java.lang.String",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.initial-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.max-active",
+      "type": "java.lang.Integer",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.max-pool-prepared-statement-per-connection-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.max-wait",
+      "type": "java.lang.Integer",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.min-evictable-idle-time-millis",
+      "type": "java.lang.Integer",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.password",
+      "type": "java.lang.String",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.pool-prepared-statements",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.time-between-eviction-runs-millis",
+      "type": "java.lang.Integer",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.type",
+      "type": "java.lang.String",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.url",
+      "type": "java.lang.String",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.username",
+      "type": "java.lang.String",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    },
+    {
+      "name": "druid.datasource.validation-query",
+      "type": "java.lang.String",
+      "sourceType": "com.billow.cloud.common.properties.DruidDSProperties"
+    }
+  ],
+  "hints": []
+}

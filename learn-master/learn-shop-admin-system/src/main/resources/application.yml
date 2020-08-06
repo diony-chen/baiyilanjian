@@ -1,0 +1,72 @@
+swagger: #接口注解文档
+  basepackage: com.billow.system.api #必须要有 GetMapping，PostMapping...
+  service:
+    name: ${spring.application.name} #api名称
+    version: 1.0
+    description: 警告：此API仅用于测试，禁止任何商业用途，否则一切后果自行承担！！！ #api描述
+    contact:
+      developer: billow #api开发者
+      url: https://github.com/Xiao-Y/learn
+      email: lyongtao123@126.com #api开发者
+
+server:
+  servlet:
+    context-path: /admin-system
+spring:
+  application:
+    name: learn-shop-admin-system #客户端名称
+  jpa: #JPA配置
+    generate-ddl: false
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  cloud:
+    bus:
+      trace:
+        enabled: true #开启消息跟踪
+#  mail:
+#    host: smtp.exmail.qq.com
+#    port: 465
+#    username: XXXXXX
+#    password: XXXXXX
+#    default-encoding: utf-8
+#    properties:
+#      mail:
+#        smtp:
+#          socketFactory:
+#            class: javax.net.ssl.SSLSocketFactory
+#          auth: true
+  activiti:
+    check-process-definitions: false #校验流程文件，默认校验resources下的processes文件夹里的流程文件
+    mail-server-use-ssl: true
+    database-schema-update: true #首次启动时，需要设置为true，自动建表
+    async-executor-activate: false
+  thymeleaf:
+    mode: HTML5
+    cache: false
+    prefix: classpath:/templates/
+  freemarker:
+    cache: false
+    template-loader-path: classpath:/templates/
+
+
+
+custom:
+  menu:
+    read-cache: true #菜单优先从缓存中读出
+    write-cache: true #菜单写入缓存中
+  common:
+    linux:
+      base-file-path: /usr/app/uploadfile # base 路径
+    win:
+      base-file-path: D:/uploadfile # base 路径
+    image-mapping: /displayImag # 映射处理的路径，当 url 中有 /displayImag 时，资源映射到 D:/temp-rainy/
+    markdown-img-path: /markdown # 图片保存的路径
+    user-icon-img-path: /usericon # 图片保存的路径
+    start-init-data: false #启动时，是否初始数据（首次启动时需要设置为true,默认为true）
+  mail:
+    from: ${spring.mail.username} #系统对外发送邮件的地址
+    host: smtp.exmail.qq.com
+    port: 465
+    username: XXXXXX
+    password: XXXXXX

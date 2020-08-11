@@ -1,14 +1,14 @@
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\properties\MqProperties.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\dao\impl\StoredOperationsDaoImpl.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\retry\NextRetryDateDefault.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\service\impl\StoredOperationsServiceImpl.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\retry\NextRetryDate.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\service\StoredOperationsService.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\dao\StoredOperationsDao.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\retry\RetrySendMessage.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\config\MultipleRabbitMQConfig.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\po\PublisherPo.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\enums\PublisherStatusEnum.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\vo\MessageWithTime.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\StoredRabbitTemplate.java
-D:\gitWork\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\properties\CustomProperties.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\config\MultipleRabbitMQConfig.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\retry\NextRetryDate.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\po\PublisherPo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\properties\MqProperties.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\StoredRabbitTemplate.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\retry\NextRetryDateDefault.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\retry\RetrySendMessage.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\service\StoredOperationsService.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\dao\impl\StoredOperationsDaoImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\dao\StoredOperationsDao.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\enums\PublisherStatusEnum.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\properties\CustomProperties.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\service\impl\StoredOperationsServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-mq\src\main\java\com\billow\mq\stored\vo\MessageWithTime.java

@@ -1,63 +1,63 @@
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSkuSpecValueDao.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSkuSpecValueVo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSkuSpecValueApi.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\consume\TestMqConsume.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSpuSpecDao.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSpuApi.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\app\AliPayApp.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSpuService.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSpecValuePo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsCategoryVo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSpecKeyPo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsCategoryPo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSpecValueServiceImpl.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\ShopInfoApi.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsCategoryServiceImpl.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsBrandServiceImpl.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSpecValueVo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\config\RabbitMqConfig.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\ShopInfoService.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSkuSpecValueServiceImpl.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsBrandDao.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\app\GoodsSkuApp.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSpuSpecPo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSpecValueService.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsCategoryDao.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSkuVo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\app\GoodsSpuApp.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\app\GoodsSpuSpecApp.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSkuSpecValueService.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsCategoryApi.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsCategoryService.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsBrandApi.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSkuPo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSkuSpecValuePo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSkuService.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSpuSpecService.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSpecKeyDao.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSkuApi.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\config\BeanConfig.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSpuDao.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSpecKeyVo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSkuDao.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSpuVo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsBrandVo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSpecKeyApi.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSpecValueDao.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSpuServiceImpl.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSkuServiceImpl.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\CoreProductApp.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSpuSpecServiceImpl.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsBrandPo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSpecValueApi.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSpuPo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\ShopInfoVo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\ShopInfoServiceImpl.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSpuSpecApi.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSpuSpecVo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\properties\AliPayScanProperties.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsBrandService.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\ShopInfoPo.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSpecKeyService.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\ShopInfoDao.java
-D:\gitWork\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSpecKeyServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\app\GoodsSpuSpecApp.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSpecValueService.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsCategoryService.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsCategoryServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSkuPo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\consume\TestMqConsume.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSkuServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSpuSpecApi.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSkuSpecValueVo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\ShopInfoService.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsBrandVo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsBrandApi.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSpuVo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSpuApi.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSkuDao.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSpecValueServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\config\BeanConfig.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\properties\AliPayScanProperties.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSpuSpecServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSkuSpecValueDao.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\ShopInfoVo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\ShopInfoApi.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsBrandPo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSpuPo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSkuSpecValueApi.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSpuSpecDao.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSpuSpecPo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\config\RabbitMqConfig.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\ShopInfoPo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\app\GoodsSkuApp.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\CoreProductApp.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSpecValuePo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\app\GoodsSpuApp.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSpecKeyPo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSpecKeyServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSpuServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSpecKeyDao.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsSkuSpecValuePo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsBrandServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSpecValueDao.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSpuService.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSkuApi.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSpecValueVo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\ShopInfoServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsSpuDao.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsCategoryVo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSpecKeyApi.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSkuSpecValueService.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsBrandDao.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsBrandService.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsSpecValueApi.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\po\GoodsCategoryPo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSpecKeyService.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\impl\GoodsSkuSpecValueServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSpecKeyVo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSpuSpecVo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\pojo\vo\GoodsSkuVo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSkuService.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\api\GoodsCategoryApi.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\app\AliPayApp.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\GoodsCategoryDao.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\dao\ShopInfoDao.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-core-product\src\main\java\com\billow\product\service\GoodsSpuSpecService.java

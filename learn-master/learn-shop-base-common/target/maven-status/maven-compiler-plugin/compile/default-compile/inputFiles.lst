@@ -1,25 +1,25 @@
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\jpa\DefaultSpec.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\jpa\InjectOpreator.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\business\ex\RoleEx.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\jpa\utils\QueryUtils.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\RabbitMqSendMailTTLConfig.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\BaseMqConfig.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\redis\JedisClusterConfig.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\MqExecuteSqlConfig.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\business\ex\SelectEx.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\base\BaseApi.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\business\ex\UserEx.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\redis\RedisConfig.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\MqCommon.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\redis\RedisUtils.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\MqRunJobTestConfig.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\business\txManager\TxManagerTxUrlServiceImpl.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\base\pojo\BasePoDefault.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\druid\DruidConfiguration.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\base\pojo\BasePage.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\business\ex\MenuEx.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\swagger2\Swagger2Config.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\thread\ThreadExecutorConfig.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\RabbitMqSendMailConfig.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\base\pojo\BasePo.java
-D:\gitWork\learn-master\learn-shop-base-common\src\main\java\com\billow\common\redis\RedisClusterProperties.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\thread\ThreadExecutorConfig.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\MqExecuteSqlConfig.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\RabbitMqSendMailConfig.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\RabbitMqSendMailTTLConfig.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\base\pojo\BasePage.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\jpa\utils\QueryUtils.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\BaseMqConfig.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\business\ex\UserEx.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\business\ex\MenuEx.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\MqRunJobTestConfig.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\druid\DruidConfiguration.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\business\ex\SelectEx.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\amqp\MqCommon.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\business\ex\RoleEx.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\redis\RedisConfig.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\base\pojo\BasePoDefault.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\swagger2\Swagger2Config.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\jpa\DefaultSpec.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\redis\RedisUtils.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\jpa\InjectOpreator.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\base\pojo\BasePo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\redis\RedisClusterProperties.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\base\BaseApi.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\business\txManager\TxManagerTxUrlServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-common\src\main\java\com\billow\common\redis\JedisClusterConfig.java

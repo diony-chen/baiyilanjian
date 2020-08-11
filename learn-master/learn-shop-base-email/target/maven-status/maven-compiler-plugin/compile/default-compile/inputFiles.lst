@@ -1,24 +1,24 @@
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\build\HtmlMailContentBuild.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\pojo\vo\MailTemplateVo.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\pojo\vo\MailServiceVo.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\impl\EmailSenderImpl.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\build\FmMailContentBuild.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\constant\MailCst.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\build\ThfMailContentBuild.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\utils\ConvertUtils.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\impl\MailTemplateServiceImpl.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\pojo\po\MailTemplatePo.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\MailContentBuild.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\dao\impl\MailTemplateDaoImpl.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\EmailSender.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\utils\FileUtils.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\pojo\po\BasePage.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\config\EmailBeanConfig.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\constant\MailTypeEnum.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\utils\ToolsUtils.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\common\CustomPage.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\dao\MailTemplateDao.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\MailTemplateService.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\impl\MailServiceImpl.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\MailService.java
-D:\gitWork\learn-master\learn-shop-base-email\src\main\java\com\billow\email\perproties\MailPerproties.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\EmailSender.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\pojo\vo\MailTemplateVo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\impl\EmailSenderImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\build\FmMailContentBuild.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\utils\ToolsUtils.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\pojo\po\MailTemplatePo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\build\ThfMailContentBuild.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\MailContentBuild.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\pojo\po\BasePage.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\MailTemplateService.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\utils\FileUtils.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\constant\MailTypeEnum.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\dao\impl\MailTemplateDaoImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\config\EmailBeanConfig.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\pojo\vo\MailServiceVo.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\dao\MailTemplateDao.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\impl\MailTemplateServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\build\HtmlMailContentBuild.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\utils\ConvertUtils.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\impl\MailServiceImpl.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\common\CustomPage.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\perproties\MailPerproties.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\service\MailService.java
+D:\spring cloud\baiyilanjian\learn-master\learn-shop-base-email\src\main\java\com\billow\email\constant\MailCst.java

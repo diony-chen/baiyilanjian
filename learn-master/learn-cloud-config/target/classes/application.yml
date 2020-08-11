@@ -19,7 +19,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/diony-chen/baiyilanjian/tree/master/learn-master #配置git仓库地址
+          uri: https://github.com/diony-chen/baiyilanjian #配置git仓库地址
           #指定搜索路径，config-server会自动搜索根目录和指定目录（逗号分隔）下的文件
 #          search-paths: learn-cloud-config/cloud-config-repo
           search-paths: learn-cloud-config/cloud-config-core,learn-cloud-config/cloud-config-single/{application}

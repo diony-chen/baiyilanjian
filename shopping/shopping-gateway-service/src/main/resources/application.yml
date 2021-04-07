@@ -1,0 +1,32 @@
+#端口
+server:
+  port: 80
+#应用名
+spring:
+  application:
+    name: shopping-gateway-service
+  #注册中心
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+        register-enabled: true
+    # 网关
+    gateway:
+      discovery:
+        locator:
+          lowerCaseServiceId: true
+          enabled: true
+      routes:
+        - id: user
+          uri: lb://shopping-user-service
+          predicates:
+            - Path=/user/**
+          filters:
+            - StripPrefix=1
+        - id: test
+          uri: http://www.baidu.com
+          predicates:
+            - Path=/user/**
+          filters:
+            - StripPrefix=1

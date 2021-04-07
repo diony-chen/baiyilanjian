@@ -1,0 +1,25 @@
+server:
+  port: 8000
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://62.234.151.43:3306/mall?serverTimezone=UTC
+    username: diony_chen
+    password: Chen1234
+  application:
+    name: shopping-user-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+logging:
+  level:
+    root: INFO
+    com:
+      diony:
+        shopping:
+          user: INFO
+
+mybatis-plus:
+  mapper-locations: classpath:/mapper/*Mapper.xml

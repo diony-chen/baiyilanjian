@@ -1,0 +1,6 @@
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://62.234.151.43:3306/mall?serverTimezone=UTC
+#    username: diony_chen
+#    password: Chen1234

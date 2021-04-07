@@ -33,6 +33,7 @@
         <mysql.version>8.0.23</mysql.version>
         <jwt.version>8.16</jwt.version>
         <swagger2.version>2.9.2</swagger2.version>
+        <hutool.version>5.6.2</hutool.version>
     </properties>
 
     <dependencies>
@@ -46,7 +47,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
-            <version>5.6.2</version>
+            <version>${hutool.version}</version>
         </dependency>
     </dependencies>
 

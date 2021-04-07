@@ -20,15 +20,15 @@
         </dependency>
 
         <dependency>
-            <groupId>com.alibaba.cloud</groupId>
+            <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
-            <version>${alibaba.nacos.version}</version>
+            <version>0.9.0.RELEASE</version>
         </dependency>
 
         <dependency>
-            <groupId>com.alibaba.cloud</groupId>
+            <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
-            <version>${alibaba.nacos.version}</version>
+            <version>0.9.0.RELEASE</version>
         </dependency>
     </dependencies>
 

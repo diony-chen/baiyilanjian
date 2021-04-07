@@ -1,8 +1,0 @@
-server:
-  port: 8012
-spring:
-  mail:
-    host: 'smtp.163.com'
-    username: 'xxx@163.com'
-    password: 'xxxx' # ÊÚÈ¨Âë
-

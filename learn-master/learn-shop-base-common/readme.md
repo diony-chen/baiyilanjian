@@ -1,1 +1,0 @@
-依赖learn-cloud-common，主要是各个微服务中公用的jar

@@ -1,7 +1,0 @@
-com\billow\cloud\common\properties\QueueProperties.class
-com\billow\cloud\common\properties\ExchangeProperties.class
-com\billow\cloud\common\properties\ConfigCommonProperties.class
-com\billow\cloud\common\properties\MqProperties.class
-com\billow\cloud\common\properties\RouteKeyProperties.class
-META-INF\spring-configuration-metadata.json
-com\billow\cloud\common\properties\DruidDSProperties.class

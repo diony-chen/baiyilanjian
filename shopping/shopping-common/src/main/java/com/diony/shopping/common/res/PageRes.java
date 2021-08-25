@@ -29,4 +29,22 @@ public class PageRes<T> {
     @ApiModelProperty(value = "返回参数")
     private List<T> list;
 
+    @ApiModelProperty(value = "是否下一页")
+    private Boolean hasNext;
+
+    /**
+     * 分页
+     * @param list        列表数据
+     * @param total  总记录数
+     * @param pageSize    每页记录数
+     * @param pageNo    当前页数
+     */
+    public PageRes(List<T> list, Long total, Long pageSize, Long pageNo, Long totalPage) {
+        this.list = list;
+        this.total = total;
+        this.pageSize = pageSize.intValue();
+        this.pageNo = pageNo.intValue();
+        this.totalPage = totalPage;
+        this.hasNext = this.pageNo >= this.totalPage ? false : true;
+    }
 }

@@ -1,5 +1,4 @@
 D:\GitHubWork\baiyilanjian\shopping\shopping-auth-service\src\main\java\com\diony\shopping\auth\exception\Oauth2ExceptionHandler.java
-D:\GitHubWork\baiyilanjian\shopping\shopping-auth-service\src\main\java\com\diony\shopping\auth\config\RedisRepositoryConfig.java
 D:\GitHubWork\baiyilanjian\shopping\shopping-auth-service\src\main\java\com\diony\shopping\auth\controller\AuthController.java
 D:\GitHubWork\baiyilanjian\shopping\shopping-auth-service\src\main\java\com\diony\shopping\auth\domain\Oauth2TokenDto.java
 D:\GitHubWork\baiyilanjian\shopping\shopping-auth-service\src\main\java\com\diony\shopping\auth\AuthServiceApplication.java
@@ -13,4 +12,5 @@ D:\GitHubWork\baiyilanjian\shopping\shopping-auth-service\src\main\java\com\dion
 D:\GitHubWork\baiyilanjian\shopping\shopping-auth-service\src\main\java\com\diony\shopping\auth\config\WebSecurityConfig.java
 D:\GitHubWork\baiyilanjian\shopping\shopping-auth-service\src\main\java\com\diony\shopping\auth\controller\KeyPairController.java
 D:\GitHubWork\baiyilanjian\shopping\shopping-auth-service\src\main\java\com\diony\shopping\auth\config\Oauth2ServerConfig.java
+D:\GitHubWork\baiyilanjian\shopping\shopping-auth-service\src\main\java\com\diony\shopping\auth\config\RedisConfig.java
 D:\GitHubWork\baiyilanjian\shopping\shopping-auth-service\src\main\java\com\diony\shopping\auth\domain\UserDTO.java

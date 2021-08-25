@@ -2,6 +2,7 @@ package com.diony.shopping.auth.service;
 
 import cn.hutool.core.collection.CollUtil;
 import com.diony.shopping.auth.constant.RedisConstant;
+import com.diony.shopping.common.service.RedisService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Service;
@@ -20,13 +21,14 @@ public class ResourceServiceImpl {
 
     private Map<String, List<String>> resourceRolesMap;
     @Autowired
-    private RedisTemplate<String,Object> redisTemplate;
+    RedisTemplate<String,Object> redisTemplate;
 
     @PostConstruct
     public void initData() {
         resourceRolesMap = new TreeMap<>();
         resourceRolesMap.put("/api/hello", CollUtil.toList("ADMIN"));
         resourceRolesMap.put("/api/user/currentUser", CollUtil.toList("ADMIN", "TEST"));
+
         redisTemplate.opsForHash().putAll(RedisConstant.RESOURCE_ROLES_MAP, resourceRolesMap);
     }
 }

@@ -7,12 +7,11 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: 127.0.0.1:8848
+        server-addr: 62.234.151.43:8848
   redis:
     database: 0
     port: 6379
     host: 62.234.151.43
-    password: Chen1234
 
 logging:
   level:

@@ -19,11 +19,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.regex.Matcher;
 
-/**
- * sql日志打印
- * @Author AndyTan
- * @Date 2021/1/18
- */
+
 @Slf4j
 @Intercepts({
 		@Signature(type = Executor.class, method = "update", args = {MappedStatement.class,

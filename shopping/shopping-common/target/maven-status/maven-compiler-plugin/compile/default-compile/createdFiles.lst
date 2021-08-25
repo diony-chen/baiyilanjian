@@ -11,6 +11,8 @@ com\diony\shopping\common\domain\Swagger$SwaggerBuilder.class
 com\diony\shopping\common\service\RedisService.class
 com\diony\shopping\common\enums\ErrorEnum.class
 com\diony\shopping\common\res\Oauth2TokenRes.class
+com\diony\shopping\common\service\impl\RedisServiceImpl.class
+com\diony\shopping\common\config\BaseRedisConfig.class
 com\diony\shopping\common\res\Oauth2TokenRes$Oauth2TokenResBuilder.class
 com\diony\shopping\common\req\PageReq.class
 com\diony\shopping\common\aop\ControllerLogAspect.class

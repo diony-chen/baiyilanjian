@@ -1,5 +1,5 @@
-com\diony\shopping\auth\config\RedisRepositoryConfig.class
 com\diony\shopping\auth\controller\AuthController.class
+com\diony\shopping\auth\config\RedisConfig.class
 com\diony\shopping\auth\domain\UserDTO.class
 com\diony\shopping\auth\component\JwtTokenEnhancer.class
 com\diony\shopping\auth\exception\Oauth2ExceptionHandler.class

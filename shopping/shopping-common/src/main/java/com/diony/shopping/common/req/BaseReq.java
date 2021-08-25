@@ -12,7 +12,7 @@ import java.io.Serializable;
 @ApiModel(value = "公共返回类")
 public class BaseReq implements Serializable {
 
-    private static final long serialVersionUID = 4192965340654225152L;
+    private static final long serialVersionUID = 1L;
 
     @ApiModelProperty(value = "链路id")
     private String traceId;

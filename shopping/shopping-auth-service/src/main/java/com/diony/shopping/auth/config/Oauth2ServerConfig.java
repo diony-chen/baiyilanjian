@@ -3,6 +3,7 @@ package com.diony.shopping.auth.config;
 import com.diony.shopping.auth.component.JwtTokenEnhancer;
 import com.diony.shopping.auth.service.UserServiceImpl;
 import lombok.AllArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.ClassPathResource;
@@ -23,18 +24,27 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 认证服务器配置
- * Created by macro on 2020/6/19.
+ * @author diony_chen
+ * @version 1.0
+ * @description: 认证服务器配置
+ * @date 2021/4/7 15:34
  */
 @AllArgsConstructor
 @Configuration
 @EnableAuthorizationServer
 public class Oauth2ServerConfig extends AuthorizationServerConfigurerAdapter {
 
-    private final PasswordEncoder passwordEncoder;
-    private final UserServiceImpl userDetailsService;
-    private final AuthenticationManager authenticationManager;
-    private final JwtTokenEnhancer jwtTokenEnhancer;
+    @Autowired
+    PasswordEncoder passwordEncoder;
+
+    @Autowired
+    UserServiceImpl userDetailsService;
+
+    @Autowired
+    AuthenticationManager authenticationManager;
+
+    @Autowired
+    JwtTokenEnhancer jwtTokenEnhancer;
 
     @Override
     public void configure(ClientDetailsServiceConfigurer clients) throws Exception {
@@ -53,9 +63,10 @@ public class Oauth2ServerConfig extends AuthorizationServerConfigurerAdapter {
         List<TokenEnhancer> delegates = new ArrayList<>();
         delegates.add(jwtTokenEnhancer);
         delegates.add(accessTokenConverter());
-        enhancerChain.setTokenEnhancers(delegates); //配置JWT的内容增强器
+        //配置JWT的内容增强器
+        enhancerChain.setTokenEnhancers(delegates);
         endpoints.authenticationManager(authenticationManager)
-                .userDetailsService(userDetailsService) //配置加载用户信息的服务
+                .userDetailsService(userDetailsService)
                 .accessTokenConverter(accessTokenConverter())
                 .tokenEnhancer(enhancerChain);
     }

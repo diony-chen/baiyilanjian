@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\src",
+    "\\src\\assets\\images",
+    "\\src\\icons\\svg",
+    "\\src\\router",
+    "\\src\\views",
+    "\\src\\views\\home",
+    "\\src\\views\\layout",
+    "\\src\\views\\login"
+  ],
+  "SelectedNode": "\\src\\router\\index.js",
+  "PreviewInSolutionExplorer": false
+}
